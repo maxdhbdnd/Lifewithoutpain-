@@ -1,0 +1,17 @@
+kaching-bundle,
+kaching-bundle-deals {
+  width: 100%;
+}
+
+.kaching-bundles-form--different-variants-selected .shopify-payment-button {
+  display: none !important;
+}
+
+.kaching-bundles--variant-selects-hidden variant-selects {
+  display: none !important;
+}
+
+/* Sticky Add To Cart BOOSTER PRO */
+.satcb_variants .kaching-bundles__bar-variant-select {
+  display: none !important;
+}
